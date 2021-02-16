@@ -1,0 +1,41 @@
+[
+{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"thermostatid": "055da53c-95ff-4296-ac53-d4b89a80cd07",
+	"time": "2020-12-31 00:00:00",
+	"heatsetting": 72,
+	"fan": "off",
+	"temperature": "74.0",
+	"system": "off",
+	"runstatus": "heat"
+},
+{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"thermostatid": "055da53c-95ff-4296-ac53-d4b89a80cd07",
+	"time": "2020-12-31 00:05:00",
+	"heatsetting": 72,
+	"fan": "off",
+	"temperature": "73.8",
+	"system": "off",
+	"runstatus": "heat"
+},
+{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"thermostatid": "055da53c-95ff-4296-ac53-d4b89a80cd07",
+	"time": "2020-12-31 00:10:00",
+	"heatsetting": 72,
+	"fan": "off",
+	"temperature": "73.2",
+	"system": "off",
+	"runstatus": "heat"
+},
+{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"thermostatid": "055da53c-95ff-4296-ac53-d4b89a80cd07",
+	"time": "2020-12-31 00:15:00",
+	"heatsetting": 72,
+	"fan": "off",
+	"temperature": "73.0",
+	"system": "off",
+	"runstatus": "heat"
+}]

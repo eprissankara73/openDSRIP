@@ -1,0 +1,45 @@
+[
+{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"waterheaterid": "3c7c6ade-e478-4b8b-9686-b5c054039c20",
+	"time": "2020-12-31 00:00:00",
+	"setpoint": 120,
+	"maxsetpoint": 140,
+	"minsetpoint": 110,
+	"ambienttemperature": 45,
+	"uppertemperature": 138,
+	"lowertemperature": 129
+},
+{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"waterheaterid": "3c7c6ade-e478-4b8b-9686-b5c054039c20",
+	"time": "2020-12-31 00:05:00",
+	"setpoint": 120,
+	"maxsetpoint": 140,
+	"minsetpoint": 110,
+	"ambienttemperature": 43,
+	"uppertemperature": 137,
+	"lowertemperature": 127
+},
+{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"waterheaterid": "3c7c6ade-e478-4b8b-9686-b5c054039c20",
+	"time": "2020-12-31 00:10:00",
+	"setpoint": 120,
+	"maxsetpoint": 140,
+	"minsetpoint": 110,
+	"ambienttemperature": 44,
+	"uppertemperature": 137,
+	"lowertemperature": 127
+},
+{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"waterheaterid": "3c7c6ade-e478-4b8b-9686-b5c054039c20",
+	"time": "2020-12-31 00:15:00",
+	"setpoint": 120,
+	"maxsetpoint": 140,
+	"minsetpoint": 110,
+	"ambienttemperature": 45,
+	"uppertemperature": 136,
+	"lowertemperature": 126
+}]

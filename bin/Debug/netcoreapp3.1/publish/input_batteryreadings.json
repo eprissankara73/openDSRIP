@@ -1,0 +1,25 @@
+[{ 
+    "siteId":"ed6c7185-a11d-4754-8e86-d481cf209f29",
+    "batteryId":"58ac3d70-19e5-4ac6-8ddc-138ac5ba461d",
+    "time":"2020-12-29 18:00:00",
+    "consumptionwatts":"0",
+    "frequency":"60",
+    "intervalpower":"0",
+    "productionwatts":"210",
+    "stateofcharge":"70",
+    "acvoltage":"239",
+    "batteryvoltage":"219"
+},
+{ 
+    "siteid":"ed6c7185-a11d-4754-8e86-d481cf209f29",
+    "batteryid":"58ac3d70-19e5-4ac6-8ddc-138ac5ba461d",
+    "time":"2020-12-29 18:05:00",
+    "consumptionwatts":"0",
+    "frequency":"60",
+    "intervalpower":"0",
+    "productionwatts":"212",
+    "stateofcharge":"69",
+    "acvoltage":"239",
+    "batteryvoltage":"220"
+}
+]

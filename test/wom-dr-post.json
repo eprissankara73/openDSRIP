@@ -1,0 +1,22 @@
+[
+    {
+        "eventId": "10",
+        "time": "2021-02-02T18:56:37",
+        "marketContext": "DRAM_DR",
+        "createdDateTime": "2021-02-02T18:56:37",
+        "dtStart": "2021-01-20T14:55:10",
+        "duration": "PT60M",
+        "startAfter": "PT0M",
+        "signalValue": 0,
+        "signalIntervalText": "0",
+        "signalIntervalStartDate": "2021-01-20T14:55:10",
+        "signalIntervalDuration": "PT60M",
+        "signalintervalPayloadValue": 1.5,
+        "signalDescriptionNumber": 2,
+        "signalUnitsNumber": "W",
+        "signalScaleCode": 6,
+        "signalId": "10",
+        "signalName": "LOAD_DISPATCH",
+        "signalType": 1
+    }
+]

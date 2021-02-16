@@ -1,0 +1,57 @@
+[
+{
+	"electricvehicleid": "f5e64d5c-ffa7-47ea-9214-d06c4c2f23c7",
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"time": "2020-12-30 02:00:00",
+	"batterycapacityandrange": 93,
+	"stateofcharge": 23,
+	"latitude": 34,
+	"longitude": 117,
+	"odometer": 12734,
+	"chargingstate": "Charging"	
+},
+{
+	"electricvehicleid": "f5e64d5c-ffa7-47ea-9214-d06c4c2f23c7",
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"time": "2020-12-30 02:05:00",
+	"batterycapacityandrange": 94,
+	"stateofcharge": 24,
+	"latitude": 34,
+	"longitude": 117,
+	"odometer": 12734,
+	"chargingstate": "Charging"	
+},
+{
+	"electricvehicleid": "f5e64d5c-ffa7-47ea-9214-d06c4c2f23c7",
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"time": "2020-12-30 02:10:00",
+	"batterycapacityandrange": 94,
+	"stateofcharge": 24,
+	"latitude": 34,
+	"longitude": 117,
+	"odometer": 12734,
+	"chargingstate": "Charging"	
+},
+{
+	"electricvehicleid": "f5e64d5c-ffa7-47ea-9214-d06c4c2f23c7",
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"time": "2020-12-30 02:15:00",
+	"batterycapacityandrange": 95,
+	"stateofcharge": 25,
+	"latitude": 34,
+	"longitude": 117,
+	"odometer": 12734,
+	"chargingstate": "Charging"	
+},
+{
+	"electricvehicleid": "f5e64d5c-ffa7-47ea-9214-d06c4c2f23c7",
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"time": "2020-12-30 02:20:00",
+	"batterycapacityandrange": 95,
+	"stateofcharge": 25,
+	"latitude": 34,
+	"longitude": 117,
+	"odometer": 12734,
+	"chargingstate": "Stopped"	
+}
+]

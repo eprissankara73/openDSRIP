@@ -1,0 +1,34 @@
+[
+  { 
+    "utilityid":"dc48e5bf-f388-4ee9-acf3-03d52ba8c9f5",
+    "siteid":"2323643d-0f89-42c0-be1e-70a04fccb11a",
+    "name":"Mosaic Gardens at Pomona",
+    "city":"Pomona",
+    "state":"CA",
+    "zipcode":"91766",
+    "timezone":"America/Los_Angeles",
+    "hassolar":1,
+    "sqfootage":0,
+    "type":"Multifamily",
+    "floors":0,
+    "year":2018,
+    "occupants":0,
+    "marketContext":"APND_SCE_TOU5"
+  },
+  { 
+    "utilityid":"dc48e5bf-f388-4ee9-acf3-03d52ba8c9f5",
+    "siteid":"0833643d-0f89-42c0-be1e-70a04fccb11a",
+    "name":"Seasons at Ontario Gateway Plaza",
+    "city":"Chino",
+    "state":"CA",
+    "zipcode":"91710",
+    "timezone":"America/Los_Angeles",
+    "hassolar":1,
+    "sqfootage":0,
+    "type":"Multifamily",
+    "floors":0,
+    "year":1970,
+    "occupants":0,
+    "marketContext":"APND_SCE_TOU5"
+  }
+]

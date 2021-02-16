@@ -1,0 +1,15 @@
+  { 
+    "utilityid":"dc48e5bf-f388-4ee9-acf3-03d52ba8c9f5",
+    "name":"Seasons at Ontario",
+    "city":"Ontario",
+    "state":"CA",
+    "zipcode":"91762",
+    "timezone":"America/Los_Angeles",
+    "hassolar":1,
+    "sqfootage":0,
+    "type":"Multifamily",
+    "floors":0,
+    "year":1998,
+    "occupants":0,
+    "marketContext":"APND_SCE_TOU5"
+  }

@@ -1,0 +1,36 @@
+[{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"loadid": "1974c50f-3e96-432f-a0e4-c4eeee2122ae",
+	"time": "2020-12-31 01:00:00",
+	"average": 241
+},
+{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"loadid": "1974c50f-3e96-432f-a0e4-c4eeee2122ae",
+	"time": "2020-12-31 01:15:00",
+	"average": 221
+},
+{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"loadid": "1974c50f-3e96-432f-a0e4-c4eeee2122ae",
+	"time": "2020-12-31 01:30:00",
+	"average": 220
+},
+{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"loadid": "1974c50f-3e96-432f-a0e4-c4eeee2122ae",
+	"time": "2020-12-31 01:45:00",
+	"average": 215
+},
+{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"loadid": "1974c50f-3e96-432f-a0e4-c4eeee2122ae",
+	"time": "2020-12-31 02:00:00",
+	"average": 210
+},
+{
+	"siteid": "ed6c7185-a11d-4754-8e86-d481cf209f29",
+	"loadid": "1e9333b7-71dc-4219-b2a4-b202dc3e07ad",
+	"time": "2020-12-31 01:00:00",
+	"average": 190
+}]
