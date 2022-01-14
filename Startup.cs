@@ -39,8 +39,8 @@ namespace MYSQL
                 options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
             }).AddJwtBearer(options =>
             {
-                options.Authority = "https://epri-lita.auth0.com/";
-                options.Audience = "https://epriskillserver.com/dsrip/api";
+                options.Authority = "<INSERT AUTHORITY>";
+                options.Audience = "<INSERT AUDIENCE>";
             });
         }
 
