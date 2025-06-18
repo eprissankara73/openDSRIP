@@ -2130,7 +2130,7 @@ Base Route: `/api/DSRIPWaterHeater`
 ##### Data Model: WaterHeaterReading
 
 | Attribute            | Type   | Description                                    |
-|---_------------------|--------|------------------------------------------------|
+|----------------------|--------|------------------------------------------------|
 | WaterHeaterReadingId | string | Unique identifier for the water heater reading |
 | SiteId               | string | Identifier for the associated site             |
 | WaterHeaterId        | string | Identifier for the associated water heater     |
