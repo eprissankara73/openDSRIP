@@ -192,15 +192,6 @@ The openDSRIP application follows a modular, service-oriented architecture using
 
 ---
 
-### Component Diagram
-
-*(Optional: Add a visual diagram here if you’d like)*
-
-Example:
-- Client → API Gateway → Authentication → Controllers → Services → Repositories → MySQL Database
-
----
-
 ### Technology Stack
 
 | Layer                 | Technology                  |
